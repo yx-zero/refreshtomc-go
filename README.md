@@ -36,5 +36,5 @@ every token in each step runs asynchronously, **but each step doesn't**
 
 ## 📄 Outputs
 
-- ✅ **Success:** `result.txt` by default, changeable in config.json
+- ✅ **Success:** `output.txt` by default, changeable in config.json
 - ❌ **Failed:** not yet, soon
