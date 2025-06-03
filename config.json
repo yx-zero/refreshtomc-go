@@ -1,0 +1,6 @@
+{
+  "input_file": "input.txt",
+  "proxy_file": "proxy.txt",
+  "output_file": "output.txt",
+  "concurrent_limit": 50
+}
